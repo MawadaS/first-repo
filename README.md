@@ -1,3 +1,3 @@
 # first-repo
 first attempt
-good idea ok
+good idea ok. hello 
